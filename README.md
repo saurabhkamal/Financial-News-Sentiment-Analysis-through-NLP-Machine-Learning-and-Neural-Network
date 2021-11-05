@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# Stock Market Analysis
+This work is continuously refined. 
